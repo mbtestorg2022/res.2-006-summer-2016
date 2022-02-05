@@ -6,14 +6,105 @@ title: Workshop Schedule
 uid: fbebbb7e-85f5-545a-6cf5-d0e232504108
 ---
 
-| TIMES | ACTIVITIES |
-| --- | --- |
-| 8:30 am – 9:10 am | Check-in & Tear Down Digital Cameras |
-| 9:10 am – 9:30 am | Welcome and Introduction to Cameras |
-| 9:30 am – 10:00 am | Keynote Speaker: Kris Clark |
-| 10:00 am – 12:00 pm | Activity: Build a Camera |
-| 12:00 pm – 1:00 pm |  {{< br >}}{{< br >}} Lunch with Society of Women Engineers and Women's Technology Program at MIT representatives {{< br >}}{{< br >}} Keynote Speaker: Uyanga Tsedev {{< br >}}{{< br >}}  |
-| 1:00 pm – 1:30 pm | Introduction to Image Processing |
-| 1:30 pm – 3:30 pm | Activity: Program Instagram Filters |
-| 3:30 pm – 4:00 pm | Closing Remarks |
-| 4:00 pm – 4:30 pm | Demo Stations (3-D imaging, infrared, photobooth)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TIMES
+{{< thclose >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8:30 am – 9:10 am
+{{< tdclose >}}
+{{< tdopen >}}
+Check-in & Tear Down Digital Cameras
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9:10 am – 9:30 am
+{{< tdclose >}}
+{{< tdopen >}}
+Welcome and Introduction to Cameras
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9:30 am – 10:00 am
+{{< tdclose >}}
+{{< tdopen >}}
+Keynote Speaker: Kris Clark
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10:00 am – 12:00 pm
+{{< tdclose >}}
+{{< tdopen >}}
+Activity: Build a Camera
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12:00 pm – 1:00 pm
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lunch with Society of Women Engineers and Women's Technology Program at MIT representatives
+
+Keynote Speaker: Uyanga Tsedev
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1:00 pm – 1:30 pm
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Image Processing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1:30 pm – 3:30 pm
+{{< tdclose >}}
+{{< tdopen >}}
+Activity: Program Instagram Filters
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3:30 pm – 4:00 pm
+{{< tdclose >}}
+{{< tdopen >}}
+Closing Remarks
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4:00 pm – 4:30 pm
+{{< tdclose >}}
+{{< tdopen >}}
+Demo Stations (3-D imaging, infrared, photobooth)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
