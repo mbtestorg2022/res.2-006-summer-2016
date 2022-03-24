@@ -26,7 +26,7 @@ Closing Remarks
 
 **Resources**
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Map of the Day (PDF)]({{< baseurl >}}/resources/mitres_2_006sum16_mapday)
+[Map of the Day (PDF)]({{< baseurl >}}/resources/mitres_2_006sum16_mapday)
 
 [Team Matching (PDF)]({{< baseurl >}}/resources/mitres_2_006sum16_matching)
 
