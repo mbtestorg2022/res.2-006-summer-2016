@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: bec74b43-2d16-b017-73ec-f480283c04c4
 resourcetype: Image
 title: Beaver Works
 uid: beeddfe0-cbcf-3170-9c6d-d6be01342b6f

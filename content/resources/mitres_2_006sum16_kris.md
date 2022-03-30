@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-2-006-girls-who-build-cameras-summer-2016/58d2e4973f34833f00091f8aa54ebe5d_MITRES_2_006SUM16_Kris.pdf
 file_type: application/pdf
+parent_uid: be7b0d4e-8aa5-fbd3-d810-23d3381d5f65
 resourcetype: Document
 title: "What Cameras can do for you\u2026 and how they do it!"
 uid: 58d2e497-3f34-833f-0009-1f8aa54ebe5d

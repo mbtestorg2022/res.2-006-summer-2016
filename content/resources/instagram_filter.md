@@ -3,6 +3,7 @@ content_type: resource
 description: This special file contains information regarding instagram filter.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-2-006-girls-who-build-cameras-summer-2016/2746e970cf6552755b133775d1824bef_Instagram_filter.zip
 file_type: application/zip
+parent_uid: a96a1185-4d73-3e8f-0a13-db3e104ba10d
 resourcetype: Other
 title: Instagram_filter.zip
 uid: 2746e970-cf65-5275-5b13-3775d1824bef
